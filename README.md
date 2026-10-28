@@ -13,8 +13,8 @@ and
 ![](/md-a/empty-img.png)
 
 
-##Skills
-![](/md-a/data.svg)**Monster stack developer** t
+## Skills
+![](/md-a/data.svg)**Monster stack developer**
 
 ![](/md-a/design-%20icon.svg)  **Designer** 
 
