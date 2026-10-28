@@ -1,10 +1,10 @@
-![Hello and welcome to my github](/md-a/mk-header.svg)  src="https://github.com/user-attachments/assets/01514df9-0ce1-4b52-a3b8-6ac62d6ebad9" />
+![Hello and welcome to my github](/md-a/mk-header.svg)  
 
 
 ![](/md-a/empty-img.png)
 
 # About Me
-![](/md-a/world.svg) Currently exploring-----------------------------------------<img width="50" height="50" alt="ArrowWitGIFbyVanderPlassprouts"
+![](/md-a/world.svg) Currently exploring-----------------------------------------↓⇂⇙◺
 
 ![](/md-a/starwars.svg) Extended Reality ( Virtual Reality / Augmented Reality )
 
