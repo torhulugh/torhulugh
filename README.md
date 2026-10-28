@@ -1,4 +1,4 @@
-![Hello and welcome to my github](/md-a/mk-header.svg) -----------------------------------------<img width="234" height="480" alt="ArrowWitGIFbyVanderPlassprouts" src="https://github.com/user-attachments/assets/01514df9-0ce1-4b52-a3b8-6ac62d6ebad9" />
+![Hello and welcome to my github](/md-a/mk-header.svg) -----------------------------------------<img width="20" height="20" alt="ArrowWitGIFbyVanderPlassprouts" src="https://github.com/user-attachments/assets/01514df9-0ce1-4b52-a3b8-6ac62d6ebad9" />
 
 
 ![](/md-a/empty-img.png)
