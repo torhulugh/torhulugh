@@ -3,16 +3,21 @@
 ![](/md-a/empty-img.png)
 
 # About Me
-![](/md-a/world.svg) Currently exploring VR/AR, AI, EE, Robotics, 
+![](/md-a/world.svg) Currently exploring
 
-![](/md-a/star.svg)  affordable renewable energy, 
-and 
+![](/md-a/starwars.svg) Extended realiy (Virtual Reality /Auguemented Reality)
+
+🧠 Artificial Intelligence
+
+⚡ Electrical Engineering
+
+🤖 Robotics, 
+
+![](/md-a/star.svg)  affordable renewable energy
 
 ![](/md-a/love.png) User Experience design
 
 ![](/md-a/straw-hart.png)  a straw hat pirate
-
-![](/md-a/starwars.svg)  A Star Wars fan
 
 ![](/md-a/empty-img.png)
 
