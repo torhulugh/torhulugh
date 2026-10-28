@@ -5,7 +5,7 @@
 # About Me
 ![](/md-a/world.svg) Currently exploring
 
-![](/md-a/starwars.svg) Extended realiy (Virtual Reality /Auguemented Reality)
+![](/md-a/starwars.svg) Extended Reality ( Virtual Reality / Augmented Reality )
 
 🧠 Artificial Intelligence
 
@@ -13,11 +13,10 @@
 
 🤖 Robotics, 
 
-![](/md-a/star.svg)  affordable renewable energy
+![](/md-a/star.svg)  Affordable renewable energy
 
 ![](/md-a/love.png) User Experience design
 
-![](/md-a/straw-hart.png)  a straw hat pirate
 
 ![](/md-a/empty-img.png)
 
@@ -25,7 +24,7 @@
 ## Skills
 ![](/md-a/data.svg) **Monster stack developer**
 
-![](/md-a/design-%20icon.svg)  **Designer** 
+![](/md-a/design-%20icon.svg)  ** Multi- discipnliniry Designer ** 
 
 ![](/md-a/research.svg)  **Researcher:** 
 
