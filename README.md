@@ -4,17 +4,21 @@
 
 # About Me
 ![](/md-a/world.svg) Currently exploring VR/AR, AI, EE, Robotics, 
+
 ![](/md-a/star.svg)  affordable renewable energy, 
 and 
+
 ![](/md-a/love.png) User Experience design
 
 ![](/md-a/straw-hart.png)  a straw hat pirate
+
 ![](/md-a/starwars.svg)  A Star Wars fan
+
 ![](/md-a/empty-img.png)
 
 
 ## Skills
-![](/md-a/data.svg)**Monster stack developer**
+![](/md-a/data.svg) **Monster stack developer**
 
 ![](/md-a/design-%20icon.svg)  **Designer** 
 
@@ -24,7 +28,7 @@ and
 
 ![](/md-a/empty-img.png)
 ---
-![](/md-a/in.svg) linkedIn](https://www.linkedin.com/in/tor-hulugh-88aa87201/)
+![](/md-a/in.svg) [linkedIn](https://www.linkedin.com/in/tor-hulugh-88aa87201/)
 ![](/md-a/ig.svg) [Instagram](https://www.instagram.com/torhulugh/)
 ![](/md-a/Dribbble-icon.png) [ Dribbble](https://dribbble.com/torhulugh)
 ---
