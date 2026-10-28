@@ -3,19 +3,21 @@
 ![](/md-a/empty-img.png)
 
 # About Me
-![](/md-a/goal-icn.svg) Currently exploring VR/AR, AI, EE, Robotics, ![](/md-a/star.svg)  affordable renewable energy, and ![](/md-a/love.png) User Experience design
+![](/md-a/world.svg) Currently exploring VR/AR, AI, EE, Robotics, 
+![](/md-a/star.svg)  affordable renewable energy, 
+and 
+![](/md-a/love.png) User Experience design
+
 ![](/md-a/straw-hart.png)  a straw hat pirate
 ![](/md-a/starwars.svg)  A Star Wars fan
 ![](/md-a/empty-img.png)
-![](/md-a/world.svg) **Monster stack developer** t
+ ![](/md-a/data.svg)**Monster stack developer** t
 
 ![](/md-a/design-%20icon.svg)  **Designer** 
 
-![](/md-a/data.svg)  **Database:** SQL and noSQL
-
 ![](/md-a/research.svg)  **Researcher:** 
 
-![](/md-a/tools.svg) **Tools:** Visual Studio, Visual Studio Code, git, GitHub, Android Studio, Figma, Adobe Creative Suite, Lens Studio
+![](/md-a/tools.svg) **Artificer:**
 
 ![](/md-a/empty-img.png)
 ---
