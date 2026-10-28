@@ -11,7 +11,10 @@ and
 ![](/md-a/straw-hart.png)  a straw hat pirate
 ![](/md-a/starwars.svg)  A Star Wars fan
 ![](/md-a/empty-img.png)
- ![](/md-a/data.svg)**Monster stack developer** t
+
+
+##Skills
+![](/md-a/data.svg)**Monster stack developer** t
 
 ![](/md-a/design-%20icon.svg)  **Designer** 
 
